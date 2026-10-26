@@ -1,0 +1,8 @@
+Usuario: Registrar una solicitud.
+Usuario: Consultar el estado de una solicitud.
+Usuario: Consultar los detalles de sus solicitudes.
+Administrador: Consultar las solicitudes recibidas.
+Administrador: Cambiar el estado de una solicitud.
+Administrador: Consultar la información de una solicitud para darle seguimiento.
+Usuario: Recibir confirmación cuando registre una solicitud.
+Administrador: Identificar las solicitudes pendientes de atención.
