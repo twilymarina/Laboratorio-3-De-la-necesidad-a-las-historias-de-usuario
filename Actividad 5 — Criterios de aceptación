@@ -1,0 +1,35 @@
+A continuación, se definen los criterios de aceptación de las cuatro historias principales.
+
+HU-01. Registrar una solicitud
+
+Como usuario, quiero registrar una solicitud, para iniciar un trámite o pedir atención.
+
+CA-01: El sistema debe permitir ingresar la información requerida para registrar una solicitud.
+CA-02: El sistema debe validar que los campos obligatorios estén completos.
+CA-03: Si falta información obligatoria, el sistema debe indicar qué datos se necesitan completar.
+CA-04: Si los datos son válidos, el sistema debe guardar la solicitud y asignarle un identificador único.
+CA-05: Después del registro exitoso, el sistema debe mostrar una confirmación al usuario.
+HU-02. Consultar el estado de una solicitud
+
+Como usuario, quiero consultar el estado de mi solicitud, para conocer el avance de mi trámite.
+
+CA-01: El sistema debe permitir al usuario consultar sus solicitudes registradas.
+CA-02: Cada solicitud debe mostrar su identificador y estado actual.
+CA-03: El sistema debe mostrar un mensaje cuando el usuario no tenga solicitudes registradas.
+CA-04: El usuario solo debe poder consultar las solicitudes que le corresponden.
+HU-03. Consultar las solicitudes registradas
+
+Como administrador, quiero consultar las solicitudes registradas, para conocer cuáles necesitan atención.
+
+CA-01: El sistema debe mostrar al administrador una lista de las solicitudes registradas.
+CA-02: Cada solicitud debe mostrar su identificador, fecha de registro y estado.
+CA-03: El administrador debe poder identificar las solicitudes pendientes.
+CA-04: Si no existen solicitudes, el sistema debe mostrar un mensaje informativo.
+HU-04. Cambiar el estado de una solicitud
+
+Como administrador, quiero cambiar el estado de una solicitud, para mantener actualizado su seguimiento.
+
+CA-01: El administrador debe poder seleccionar una solicitud registrada.
+CA-02: El sistema debe permitir cambiar el estado de la solicitud a uno de los estados disponibles.
+CA-03: El sistema debe guardar el nuevo estado.
+CA-04: Al consultar nuevamente la solicitud, debe mostrarse el estado actualizado.
