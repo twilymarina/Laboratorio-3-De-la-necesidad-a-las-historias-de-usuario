@@ -1,0 +1,50 @@
+A partir de las necesidades identificadas, se proponen las siguientes ocho historias de usuario.
+
+HU-01
+
+Como usuario, quiero registrar una solicitud, para iniciar un trámite o pedir atención.
+
+Prioridad: Alta
+Estimación: 5
+HU-02
+
+Como usuario, quiero consultar el estado de mi solicitud, para conocer el avance de mi trámite.
+
+Prioridad: Alta
+Estimación: 3
+HU-03
+
+Como administrador, quiero consultar las solicitudes registradas, para conocer cuáles necesitan atención.
+
+Prioridad: Alta
+Estimación: 5
+HU-04
+
+Como administrador, quiero cambiar el estado de una solicitud, para mantener actualizado su seguimiento.
+
+Prioridad: Alta
+Estimación: 3
+HU-05
+
+Como usuario, quiero consultar los detalles de mis solicitudes, para recordar la información que proporcioné.
+
+Prioridad: Media
+Estimación: 3
+HU-06
+
+Como usuario, quiero recibir una confirmación al registrar una solicitud, para saber que fue recibida correctamente.
+
+Prioridad: Media
+Estimación: 2
+HU-07
+
+Como administrador, quiero consultar los detalles de una solicitud, para revisar la información antes de atenderla.
+
+Prioridad: Alta
+Estimación: 3
+HU-08
+
+Como administrador, quiero identificar las solicitudes pendientes, para organizar el trabajo y atenderlas oportunamente.
+
+Prioridad: Media
+Estimación: 3
