@@ -1,0 +1,9 @@
+Las ocho historias se revisaron con las preguntas indicadas en el laboratorio.
+
+Identifican claramente al actor que necesita la funcionalidad.
+Describen una necesidad y explican el beneficio esperado.
+Se entienden sin necesidad de conocer el código del sistema.
+No mencionan tecnologías ni decisiones técnicas.
+Pueden convertirse en funcionalidades verificables y estimarse.
+
+Por lo tanto, las historias son adecuadas para formar parte del Product Backlog inicial.
