@@ -1,0 +1,12 @@
+La estimación se realizó utilizando puntos relativos, considerando el tamaño y la complejidad aproximada de cada historia.
+
+HU-01 (5 puntos): Requiere capturar datos, validarlos y confirmar el registro.
+HU-02 (3 puntos): Necesita consultar solicitudes y mostrar sus estados.
+HU-03 (5 puntos): Requiere mostrar y organizar la información de varias solicitudes.
+HU-04 (3 puntos): Consiste en actualizar y guardar el estado de una solicitud.
+HU-05 (3 puntos): Necesita mostrar la información de las solicitudes del usuario.
+HU-06 (2 puntos): Requiere mostrar una confirmación después del registro.
+HU-07 (3 puntos): Necesita mostrar la información detallada de una solicitud.
+HU-08 (3 puntos): Requiere identificar y mostrar las solicitudes pendientes.
+
+Los puntos representan una estimación inicial de esfuerzo y complejidad, no horas de trabajo. Podrán ajustarse cuando el equipo conozca los detalles de implementación.
