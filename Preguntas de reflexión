@@ -1,0 +1,19 @@
+1. ¿Cuál es la diferencia entre una necesidad del usuario y una funcionalidad técnica?
+
+Una necesidad es algo que el usuario quiere hacer o resolver. Una funcionalidad técnica es la forma en que el sistema permite satisfacer esa necesidad. Por ejemplo, la necesidad es registrar una solicitud, mientras que la funcionalidad es permitir capturar y guardar sus datos.
+
+2. ¿Por qué una historia debe indicar el beneficio que espera obtener el usuario?
+
+Porque permite entender para qué sirve la funcionalidad y qué problema busca resolver. Así, el equipo puede enfocarse en entregar algo útil para el usuario y no solamente en desarrollar funciones.
+
+3. ¿Qué problema puede existir si todas las historias tienen prioridad alta?
+
+El equipo no tendría una forma clara de distinguir cuáles funciones son más importantes. Esto dificultaría organizar el trabajo y decidir qué desarrollar primero.
+
+4. ¿Por qué una estimación inicial puede cambiar posteriormente?
+
+Porque al principio no se conocen todos los detalles del sistema. Conforme se analizan las historias y se identifican nuevas necesidades o dificultades, el equipo puede ajustar los puntos estimados.
+
+5. ¿Qué historia consideran actualmente la más importante para que su proyecto entregue valor?
+
+Consideramos que la HU-01, registrar una solicitud, es la más importante porque permite al usuario iniciar un trámite y constituye una de las funciones principales del sistema. Sin ella, no habría solicitudes nuevas que consultar o administrar.
